@@ -4,3 +4,4 @@
 7. Line
 FOO
 BAR
+BAR
