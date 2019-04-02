@@ -4,9 +4,11 @@
 7. Line
 FOO
 BAR
+FOO
 BAR
 BAR
 BAR
+ZAP
 BAR
 BAR
 FOO
