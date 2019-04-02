@@ -7,3 +7,4 @@
 FOO
 FOO
 FOO
+Newline
