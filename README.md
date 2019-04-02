@@ -5,3 +5,8 @@
 FOO
 BAR
 BAR
+BAR
+BAR
+BAR
+BAR
+FOO
