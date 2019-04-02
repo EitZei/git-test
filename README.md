@@ -6,3 +6,4 @@
 7. Line
 FOO
 FOO
+FOO
